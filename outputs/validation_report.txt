@@ -1,0 +1,17 @@
+CUSTOMER SUPPORT TICKET CLASSIFIER
+
+Category Best Parameters:
+{'model__C': 0.1, 'tfidf__ngram_range': (1, 1)}
+
+Priority Best Parameters:
+{'model__C': 0.1, 'tfidf__ngram_range': (1, 1)}
+
+Category: Accuracy 1.000, Macro F1 1.000
+Priority: Accuracy 1.000, Macro F1 1.000
+
+BONUS COMPARISON
+            Model  Accuracy  Macro_F1
+Category Baseline       1.0       1.0
+  Category + Char       1.0       1.0
+Priority Baseline       1.0       1.0
+  Priority + Char       1.0       1.0

@@ -1,0 +1,5 @@
+Model,Accuracy,Macro_F1
+Category Baseline,1.0,1.0
+Category + Char,1.0,1.0
+Priority Baseline,1.0,1.0
+Priority + Char,1.0,1.0
