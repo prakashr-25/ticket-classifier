@@ -4,3 +4,8 @@ joblib
 fastapi
 uvicorn
 pydantic
+torch
+transformers
+accelerate
+pytest
+httpx

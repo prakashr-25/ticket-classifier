@@ -1,0 +1,5 @@
+Model,Accuracy,Macro F1,Training time (s),Inference time per ticket (ms)
+Category TF-IDF,1.0,1.0,0.16,0.704
+Category DistilBERT,1.0,1.0,82.652,31.011
+Priority TF-IDF,1.0,1.0,0.029,1.298
+Priority DistilBERT,1.0,1.0,74.596,28.459
